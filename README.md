@@ -1,5 +1,4 @@
-# ElixirStatus [![Inline docs](http://inch-ci.org/github/rrrene/elixirstatus-web.svg?branch=master)](http://inch-ci.org/github/rrrene/elixirstatus-web) [![Deps Status](https://beta.hexfaktor.org/badge/all/github/rrrene/elixirstatus-web.svg)](https://beta.hexfaktor.org/github/rrrene/elixirstatus-web) [![ElixirWeekly](https://img.shields.io/badge/featured-ElixirWeekly-a054ff.svg)](https://elixirweekly.net)
-
+# ElixirStatus 
 I already integrated Phoenix in my project [Inch CI](https://inch-ci.org/), but have not yet build a frontend site with it. I want to do this here.
 
 This will become http://elixirstatus.com, my first *complete* Phoenix project.
@@ -29,7 +28,7 @@ The important thing here is this is inspired by the original RubyFlow. Giving de
 - [x] GitHub integration
 - [x] Twitter setup
 - [ ] Design functional UI
-- [ ] Beta phase ([described here](https://github.com/rrrene/elixirstatus-web/issues/21))
+- [ ] Beta phase
 - [ ] Fun!
 
 
@@ -81,10 +80,7 @@ Now you can visit `localhost:4000` from your browser.
 
 ## Contribution
 
-I am no designer (as [Inch CI](https://inch-ci.org/) probably shows) *and* still relatively new to Elixir myself. So if you want to be part if this little exercise and help out, just ping me [on Twitter](https://twitter.com/rrrene) or [send me an email](https://github.com/rrrene).
-
-
-
+I am no designer (as [Inch CI](https://inch-ci.org/) probably shows) *and* still relatively new to Elixir myself. So if you want to be part if this little exercise and help out, just ping me [on Twitter](https://twitter.com/rrrene) or [send me an email
 
 ## Author
 
@@ -104,7 +100,7 @@ But ElixirStatus is a community project and received fantastic contributions fro
 ElixirStatus takes inspiration from RubyFlow, which helped me a lot to get my Ruby projects noticed.
 
 People posting a wild mix of interesting stuff, discoveries and banter under the hashtag #myelixirstatus on Twitter inspired the name.
-
+If you have some questions, feel free to reach out.
 
 
 ## License
